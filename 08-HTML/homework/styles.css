@@ -1,0 +1,39 @@
+body{
+   background-image: url(https://i.pinimg.com/564x/12/4f/e2/124fe2752b60de810e7640d76ab5c7f2.jpg); 
+   display: flex;
+   justify-content: center;
+}
+
+title{
+    color: mediumorchid;
+}
+h1{
+    color: blueviolet;
+}
+h3{
+    color: rgb(19, 229, 138);
+}
+h4{
+    color: purple;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-image: ;
+    padding: 50px;
+    border: 5px solid plum;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    color: blue;
+}
+a{
+    color: blue;
+}
+
